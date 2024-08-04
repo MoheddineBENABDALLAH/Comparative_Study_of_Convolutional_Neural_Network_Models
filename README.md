@@ -6,14 +6,14 @@
 This project conducts a comparative study of various convolutional neural network (CNN) models for image classification. The goal is to compare the performance of models trained from scratch with those using transfer learning, specifically VGG16 and VGG19, with different configurations. The aim is to identify best practices and approaches for image classification tasks.
 
 
-## Dataset 
+**Dataset**
 
 https://drive.google.com/file/d/1h4ek1Gh5qYY7UfEWcnV-K0uZ-oaaxUPj/view
 
-**Comparison:**
+**Comparison**
 - Comparative analysis of the performance between the models
 
-**Prerequisites**
+## Prerequisites 
 ```bash
 pip install tensorflow pandas matplotlib
 ```
