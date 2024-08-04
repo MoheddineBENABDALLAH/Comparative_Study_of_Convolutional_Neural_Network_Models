@@ -10,8 +10,6 @@ This project conducts a comparative study of various convolutional neural networ
 
 https://drive.google.com/file/d/1h4ek1Gh5qYY7UfEWcnV-K0uZ-oaaxUPj/view
 
-**Comparison**
-- Comparative analysis of the performance between the models
 
 ## Prerequisites 
 ```bash
